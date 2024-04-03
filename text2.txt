@@ -1,2 +1,3 @@
-This is Manisha Hatalageri
+This is Manisha. Learning Basic DevOps course.
+
 
